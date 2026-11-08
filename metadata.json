@@ -1,0 +1,6 @@
+{
+  "name": "SAPEM Peletizadoras - Fábrica de Ração na Propriedade",
+  "description": "Fabricação 100% nacional de peletizadoras para ração animal direto da indústria. Simulador de economia, garantia de 1 ano e narração TTS com Gemini 3.8 Flash TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
